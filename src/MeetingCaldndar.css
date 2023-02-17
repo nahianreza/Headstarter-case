@@ -1,0 +1,11 @@
+.Calendar-App {
+    text-align: center;
+}
+
+.Calendar-App .Datepicker{
+    align-content: center;
+}
+
+.react-datepicker-popper {
+    z-index: 100;
+}
